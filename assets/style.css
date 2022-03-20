@@ -7,7 +7,7 @@
     --secondary: rgb(224, 218, 218);
     --tertiary: rgb(163, 228, 219); 
     --white: rgb(0, 0, 0);
-    font-size: 70%;
+    font-size: 55%;
   }
 
 
@@ -50,7 +50,7 @@
 .container {
       padding: 20px;
       flex-direction: column;
-      width: 50%;
+      width: 65%;
       margin: auto;
   }
 

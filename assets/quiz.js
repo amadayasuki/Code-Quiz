@@ -47,7 +47,7 @@ var questions = [
     {
         q: 'What is the correct JavaScript syntax to write "Hello World"?',
         a: '1. document.write("Hello World")',
-        choices: [{ choice: '1. System.out.println("Hello World")' }, { choice: '2. println ("Hello World")' }, { choice: '3. document.write("Hello World")' }, { choice: '4. response.write("Hello World")' }]
+        choices: [{ choice: '1. out.println("Hello World")' }, { choice: '2. println ("Hello World")' }, { choice: '3. document.write("Hello World")' }, { choice: '4. response.write("Hello World")' }]
     },
     {
         q: 'What is the correct syntax for referring to an external script called " abc.js"?',
