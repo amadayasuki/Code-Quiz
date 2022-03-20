@@ -21,10 +21,44 @@
                 For every correct answer you will be rewarded 10 points! For every incorrect anwser, 5 points will be deducted and your time will be reduced by 3 seconds.
             </p>
             <button class="Button Starter" id="Start-Game">Start Quiz</button>
-            
         </div>
     </div>
- 
-<link rel="assets/quiz.js">    
+
+    <div id="Question-Holder" class="Hide">
+        <div class="Container Questions">
+            <div id="Questions"></div>
+            <div id="Answer-Buttons" class="Button"></div>
+        </div>
+    </div>
+
+    <div id="End-Holder" class="Hide">
+        <div class="Container End">
+         <div id=Scores>
+             <h1>You're Finished!</h1>
+         </div>  
+         <form id="Name-Form" class="Names">
+           <p> Enter Your Name:
+             <input type="text" name="Name" id="Name" class="text-input" />
+             <button class="Button Starter" id="Submit-Score" type="submit">Submit</button> </p>
+           </form>
+         </div>
+     </div>
+
+
+    <div id="High-Score-Holder" class="Hide">
+        <div class="High Score Holder">
+            <h3>High Scores</h3>
+            <ol id="High-Score-List" class= Scores></ol>
+        </div>
+            <button id="Go-Back" class="Button"> Go Back</button>
+            <button id="Clear-High-Scores" class="Button">Clear High Scores</button>
+    </div>
+    <div id="Correct" class="Hide">
+        <h3>Correct!</h3>
+    </div>
+    <div id="Incorrect" class="Hide">
+        <h3>Incorrect!</h3>
+    </div>
+<script src="assets/quiz.js">    
 </body>
 </html>
