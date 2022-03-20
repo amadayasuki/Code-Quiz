@@ -11,7 +11,7 @@ I was tasked to ensure the following:
 5. The player can save their initials and score when the game is over
 
 ### LIVE LINK
-https://amadayasuki.github.io/Password-Generator/
+https://amadayasuki.github.io/Code-Quiz
 
 ### The following video shows the web application's appearance and functionality:
 ![Password Generator DEMO](https://user-images.githubusercontent.com/96795462/159187034-302a7567-5f28-4634-a57b-3edc6a36f2a5.mp4)
