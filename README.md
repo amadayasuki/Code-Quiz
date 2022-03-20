@@ -14,7 +14,8 @@ I was tasked to ensure the following:
 https://amadayasuki.github.io/Password-Generator/
 
 ### The following video shows the web application's appearance and functionality:
-![Password Generator Screenshot](https://user-images.githubusercontent.com/96795462/159187011-1638664d-c202-4553-9a05-75e01f4e342a.png)
 ![Password Generator DEMO](https://user-images.githubusercontent.com/96795462/159187034-302a7567-5f28-4634-a57b-3edc6a36f2a5.mp4)
+![Password Generator Screenshot](https://user-images.githubusercontent.com/96795462/159187011-1638664d-c202-4553-9a05-75e01f4e342a.png)
+
 
 
